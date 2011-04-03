@@ -1,3 +1,13 @@
+/*This is a simple example 
+ * demonstrating the concept of
+ * Inheritence. This example also
+ * demonstrates the concept of
+ * 'super' keyword in Java.
+ * Author: Harbhag Singh Sohal
+ * License: GPL V2 or later */
+
+
+
 class InheritenceSuperclass {
 	
 	public int a;
